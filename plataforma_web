@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Ponle freno al maltrato</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background: url('https://images.unsplash.com/photo-1529156069898-49953e39b3ac') no-repeat center/cover;
+            color: white;
+            padding: 60px;
+            text-align: center;
+        }
+        header h1 {
+            background-color: rgba(0,0,0,0.6);
+            display: inline-block;
+            padding: 10px;
+            border-radius: 10px;
+        }
+        nav {
+            background-color: #333;
+            padding: 10px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 10px;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+            margin: 10px;
+            background-color: white;
+            border-radius: 10px;
+        }
+        img {
+            width: 100%;
+            max-width: 400px;
+            display: block;
+            margin: 10px auto;
+            border-radius: 10px;
+        }
+        footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+    </style>
+</head>
+
+<body>
+
+<header>
+    <h1>Ponle freno al maltrato</h1>
+    <p>Información para prevenir y actuar</p>
+</header>
+
+<nav>
+    <a href="#quees">¿Qué es?</a>
+    <a href="#tipos">Tipos</a>
+    <a href="#senales">Señales</a>
+    <a href="#quehacer">Qué hacer</a>
+    <a href="#ayuda">Ayuda</a>
+</nav>
+
+<section id="quees">
+    <h2>¿Qué es el maltrato?</h2>
+    <img src="https://cdn.pixabay.com/photo/2017/01/31/13/14/child-2027785_1280.png">
+    <p>El maltrato es cualquier acción que causa daño físico o emocional a una persona. Puede ocurrir en la familia o en otros entornos.</p>
+</section>
+
+<section id="tipos">
+    <h2>Tipos de maltrato</h2>
+    <img src="https://cdn.pixabay.com/photo/2016/03/31/19/56/stress-1295325_1280.png">
+    <ul>
+        <li>Físico: golpes</li>
+        <li>Psicológico: insultos</li>
+        <li>Emocional: humillación</li>
+        <li>Negligencia: falta de cuidado</li>
+    </ul>
+</section>
+
+<section id="senales">
+    <h2>Señales de alerta</h2>
+    <img src="https://cdn.pixabay.com/photo/2017/01/31/13/14/woman-2027784_1280.png">
+    <ul>
+        <li>Miedo constante</li>
+        <li>Tristeza</li>
+        <li>Heridas visibles</li>
+        <li>Aislamiento</li>
+    </ul>
+</section>
+
+<section id="quehacer">
+    <h2>¿Qué hacer?</h2>
+    <img src="https://cdn.pixabay.com/photo/2017/01/31/13/14/help-2027786_1280.png">
+    <ol>
+        <li>Hablar con un adulto</li>
+        <li>No quedarse callado</li>
+        <li>Buscar ayuda</li>
+    </ol>
+</section>
+
+<section id="ayuda">
+    <h2>Recursos de ayuda</h2>
+    <img src="https://cdn.pixabay.com/photo/2016/03/31/19/56/phone-1295324_1280.png">
+    <ul>
+        <li>📞 911</li>
+        <li>CONNA</li>
+        <li>ISNA</li>
+    </ul>
+</section>
+
+<footer>
+    <p>Proyecto escolar - Ponle freno al maltrato</p>
+</footer>
+
+</body>
+</html>
